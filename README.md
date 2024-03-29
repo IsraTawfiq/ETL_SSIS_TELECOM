@@ -1,4 +1,4 @@
-# Telecom Data Pipeline: Mastering the ETL Process
+# Telecom Data Pipeline: ETL Process
 
 ## Overview
 This project aims to streamline the ETL process for telecom data, ensuring efficient extraction, transformation, and loading of CSV files. By maintaining data integrity, handling errors, and automating archiving, the pipeline ensures reliable data management and analysis.
